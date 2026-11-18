@@ -16,6 +16,15 @@ A cinematic, mobile-first Pokémon trading card collection tracker.
 
 </div>
 
+> [!IMPORTANT]
+> **AI Development Disclosure — Proof of Concept**
+>
+> PokéVault Infinity was created primarily using generative AI (OpenAI's ChatGPT) under human direction, with AI contributing to the design, source code, documentation and iterative development.
+>
+> This project exists solely as a proof-of-concept demonstration of what is possible with AI-assisted software development. There is no commercial ambition, intention to monetize, or expectation that it will be used as a real-world product. It is an experimental showcase, not a production-ready application.
+>
+> AI-generated code may contain bugs, inaccuracies or limitations. The project is provided for demonstration and exploration purposes.
+
 ## Enter the vault
 
 **[Open the live app →](https://rstevens-dev.github.io/Poke-card-tracker/)**
